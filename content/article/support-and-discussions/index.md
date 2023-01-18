@@ -5,6 +5,7 @@ date: 2021-11-01T18:10:14+01:00
 tags: ['Support', 'Discussions', 'Q&A', 'Ideas', 'Show and tell']
 author: "Lednerb"
 noSummary: true
+draft: true
 ---
 
 Support for this theme is provided through the [Issues](https://github.com/Lednerb/bilberry-hugo-theme/issues) and [Discussions](https://github.com/Lednerb/bilberry-hugo-theme/discussions) sections of the project.

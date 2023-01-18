@@ -8,6 +8,7 @@ tags: ['Kilez More']
 # Set your video id for
 youtube: "M7IjJiZUutk"
 vimeo: ""       # https://vimeo.com/239830182 -> "239830182"
+draft: true
 ---
 Kilez More ist ein großartiger österreichischer Musiker.
 Die meisten seiner Songs haben einen politischen Hintergrund und geniale Texte!

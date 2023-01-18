@@ -11,6 +11,7 @@ spotify:    "0qDZPJGUALZC7vSahlekhu"
 soundcloud: ""     # https://soundcloud.com/lightbooks/alchemist-08-new-world-order-snip
 tunein:     ""     # t117894382
 mixcloud:   ""     # scienceforthepeople/445-ai-ant-intelligence
+draft: true
 ---
 
 Mit dem `audio` Post Type kann sehr einfach ein Spotify, SoundCloud, TuneIn oder Mixcloud Player integriert werden.

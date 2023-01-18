@@ -5,6 +5,7 @@ date: 2021-11-01T18:01:26+01:00
 categories: ['Reise', 'Urlaub']
 tags: ['Schottland', 'Glennfinnan Viadukt', 'Eilean Donan Castle']
 author: "Lednerb"
+draft: true
 ---
 Im Juni 2017 habe ich mit meinem besten Freund Schottland für 2 Wochen besucht und bereist.
 Wir fuhren viel durch das schöne Land und sahen eine Reihe verschiedener Tiere: Rinder, Hirsche, Vögel, Delfine und Schafe. Überall Schafe!
