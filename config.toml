@@ -154,11 +154,11 @@ disqusShortname = ""
     ]
 
     # credits line configuration
-    copyrightBy = "by Lednerb"
+    copyrightBy = "Daniel Park"
     copyrightUseCurrentYear = true  # set to true to always display the current year in the copyright
     copyrightYearOverride = "2017"
-    copyrightUrl = "https://github.com/Lednerb"
-    creditsText = "Bilberry Hugo Theme"
+    copyrightUrl = "https://github.com/DanPark13"
+    creditsText = "Powered by Bilberry Hugo Theme"
     creditsUrl = "https://github.com/Lednerb/bilberry-hugo-theme"
 
 
