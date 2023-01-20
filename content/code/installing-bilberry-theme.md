@@ -5,11 +5,14 @@ date: 2021-11-01T09:31:27+01:00
 categories: ['Code', 'Tutorials']
 tags: ['Hugo', 'Bilberry Theme']
 author: "Lednerb"
+draft: true
 ---
 You will find all information to setup this theme with your hugo site
 on the official <br> [Github Repository](https://github.com/Lednerb/bilberry-hugo-theme).
 
 Bilberry is a premium theme for the [Hugo Static Website Builder](https://gohugo.io).
+
+<!--more-->
 
 It is full of little nice features, such as:
 
@@ -26,8 +29,6 @@ It is full of little nice features, such as:
 *This Bilberry theme is inspired by the Lingonberry theme from [Anders Norén](http://www.andersnoren.se/teman/lingonberry-wordpress-theme/)*
 
 **[Further information at GitHub](https://github.com/Lednerb/bilberry-hugo-theme)**
-
-<!--more-->
 
 __If you want to install this theme, follow these steps:__
 

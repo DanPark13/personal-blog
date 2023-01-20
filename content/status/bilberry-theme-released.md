@@ -5,4 +5,4 @@ icon: "fa-rocket"
 showDate: true
 ---
 
-An Updated Personal Blog and Portfolio: more soon to come!
+New Year, New Blog Template! (I should seriously just stick with one)
