@@ -1,6 +1,6 @@
 # Tutorial: https://www.kiroule.com/article/start-blogging-with-github-hugo-and-netlify/
 
-title = "Documenting through Life"
+title = "Daniel Park"
 baseURL = "https://danpark13.netlify.app/"
 
 # Option 1 (recommended): adding the theme as a Hugo module
@@ -30,7 +30,7 @@ disqusShortname = ""
   js_modules = []
 
   # Description and meta data for the search engines
-  author = "Daniel Park"
+  author = "Documenting through Life"
   description = "Daniel Park's Personal Blog and Portfolio"
   keywords = "blog,personal,portfolio,code,college,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts"
 
