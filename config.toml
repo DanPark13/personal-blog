@@ -1,3 +1,5 @@
+# Tutorial: https://www.kiroule.com/article/start-blogging-with-github-hugo-and-netlify/
+
 title = "Documenting through Life"
 baseURL = "https://danpark13.netlify.app/"
 
