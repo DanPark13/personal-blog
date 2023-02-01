@@ -1,11 +1,11 @@
 ---
-title: "Scotland"
-date: 2023-01-31T20:48:12Z
-draft: true
+title: "Stonehenge"
+date: 2023-01-28T18:01:26+01:00
 
-imageSlider: true   #set to false if you don't want to use the imageSlider but a featuredImage
-
-categories: []
-tags: []
-author: ""
+categories: ['Traveling', 'Holidays']
+tags: ['Stonehenge', 'Salisbury', 'Wiltshire', 'UK', 'England']
+author: "Daniel Park"
+draft: false
 ---
+
+Definitely something that's worth going to once in your life, but probably something to never regularly visit (unless you're really into rocks)
